@@ -14,3 +14,4 @@ return res.json(category);
 }
 }
 export { CreateCategoryController }	
+
